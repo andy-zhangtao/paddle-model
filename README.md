@@ -12,3 +12,13 @@ Paddle 模型checkpoint
 > loss = 0.004
 
 ![](imgs/PaddleSeg/unet-bn/2020-06-29-0943.png)
+
+### icnet
+
+1. **2020-06-30-0521**
+
+![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Train_loss.png)
+![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Train_mean_acc.png)
+![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Train_mean_iou.png)
+![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Evaluate_mean_iou.png)
+![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Evaluate_mean_acc.png)
