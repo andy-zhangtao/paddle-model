@@ -22,3 +22,7 @@ Paddle 模型checkpoint
 ![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Train_mean_iou.png)
 ![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Evaluate_mean_iou.png)
 ![](imgs/PaddleSeg/icnet-bn/2020-06-30-0521/Evaluate_mean_acc.png)
+
+2. [**2020-07-02-0819**]()
+
+![](imgs/PaddleSeg/icnet-bn/2020-07-02-0819/0_007.png)
